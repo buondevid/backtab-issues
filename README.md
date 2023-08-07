@@ -1,8 +1,9 @@
 # BackTab: Your Efficient Tab Navigator 🔄
 Welcome to the issue tracker for BackTab, a Chrome extension designed to streamline your browsing experience!
 
-## About BackTab
  ⬇️ Install it from this [link](https://chrome.google.com/webstore/detail/backtab/llmkobjeihbjhjembednoaphiocminap) or by searching for `BackTab` in the Chrome Web Store.
+
+## About BackTab
 
 Cycle back and forward through your last 10 active tabs with BackTab, the ultimate tool to efficiently navigate through your last active tabs. Whether you're a multi-tasker with dozens of tabs open or someone who just needs to jump back and forth quickly, BackTab is here for you.
 
