@@ -10,14 +10,12 @@ Cycle back and forward through your last 10 active tabs with BackTab, the ultima
 Using BackTab, you can toggle between your last ten active tabs with the following shortcuts:
 
 ### For Mac users:
-
-Navigate Back: Ctrl + Command + Left Arrow  
-Navigate Forward: Ctrl + Command + Right Arrow
+**Navigate Back: Ctrl + Command + Left Arrow**  
+**Navigate Forward: Ctrl + Command + Right Arrow**
 
 ### For other platforms:
-
-Navigate Back: Ctrl + Shift + Left Arrow  
-Navigate Forward: Ctrl + Shift + Right Arrow
+**Navigate Back: Ctrl + Shift + Left Arrow**  
+**Navigate Forward: Ctrl + Shift + Right Arrow**
 
 You can also change these shortcuts by going to [chrome://extensions/shortcuts](chrome://extensions/shortcuts) and replacing the ones relative to BackTab to some of your liking.
 
